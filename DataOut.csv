@@ -1,0 +1,19 @@
+phrase,label
+hello,greet
+hi,greet
+hey,greet
+how are you?,wellBe
+what is up?,wellBe
+sup?,wellBe
+what's up?,wellBe
+good,positive
+very Good,positive
+not bad,positive
+happy to hear that,positiveResp
+lucky bastard, positiveResp
+oh noo what happend?,negativeResp
+i hope you will get better,negativeResp
+it is time of your life,timeJoke
+it is nap time,timeJoke
+have a nice day,goodbye
+i hope to talk to you soon,goodbye

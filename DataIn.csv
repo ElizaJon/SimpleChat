@@ -1,0 +1,20 @@
+phrase,label
+hello,greet
+hi,greet
+hey,greet
+how are you?,wellBe
+what is up?,wellBe
+sup?,wellBe
+what's up?,wellBe
+good,positive
+very Good,positive
+not bad,positive
+bad,negative
+very bad,negative
+life is horrible,negative
+what is the time,time
+can you tell me the time,time
+it is time of your life,timeJoke
+it is nap time,timeJoke
+bye,goodbye
+goodbye,goodbye
